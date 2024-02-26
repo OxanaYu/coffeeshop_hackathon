@@ -157,7 +157,7 @@ const Navbar = () => {
               }}
             />
           </div>
-          <IconButton onClick={togglePlay}>
+          <IconButton color="primary" onClick={togglePlay}>
             {isPlaying ? <Pause /> : <PlayArrow />}
           </IconButton>
           <audio
