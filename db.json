@@ -1,0 +1,206 @@
+{
+  "products": [
+    {
+      "id": "4057",
+      "title": "Aroma Coffee",
+      "description": "Coffee with various blends.",
+      "category": "Instant Coffee",
+      "price": 430,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2024/02/Artboard-14.png?w=1440&ssl=1"
+    },
+    {
+      "id": "651a",
+      "title": "Coffee",
+      "description": "Rich in flavors and feelengs",
+      "category": "Instant Coffee",
+      "price": 362,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2024/02/cafeopia_01_01.jpg?fit=2000%2C2000&ssl=1"
+    },
+    {
+      "id": "1541",
+      "title": "Maxim Coffee",
+      "description": "Blend beans Coffee",
+      "category": "Coffee Beans",
+      "price": 530,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2023/12/Untitled-113-1.jpg?w=1403&ssl=1"
+    },
+    {
+      "id": "c07a",
+      "title": "Coffee Creamer",
+      "description": "Complete Creamer is a high-protein coffee creamer.",
+      "category": "Turkish Coffee",
+      "price": 220,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2023/12/4-3.jpg?w=1850&ssl=1"
+    },
+    {
+      "id": "6eba",
+      "title": "Onward Coffee",
+      "description": "Onward Coffee it’s about feelling ambition.",
+      "category": "Coffee Beans",
+      "price": 605,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2023/12/coffeebag-frontwithcup-girlpup.jpg?fit=2000%2C1333&ssl=1"
+    },
+    {
+      "id": "8e90",
+      "title": "Tanuii Coffee",
+      "description": "Coffee brand that invites enthusiasts to embark on a flavorful journey.",
+      "category": "Turkish Coffee",
+      "price": 130,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2023/11/Tanuii-Executivo-07-1-scaled.jpg?w=2560&ssl=1"
+    },
+    {
+      "id": "e8ad",
+      "title": "Infiniment Gourmand",
+      "description": "Hazelnut",
+      "category": "Coffee Capsules",
+      "price": 45,
+      "img": "https://za.buynespresso.com/media/catalog/product/c/h/chiaro.png?optimize=high&fit=bounds&height=500&width=500&canvas=500:500"
+    },
+    {
+      "id": "f465",
+      "title": "Colombia",
+      "description": "Balanced",
+      "category": "Coffee Capsules",
+      "price": 25,
+      "img": "https://za.buynespresso.com/media/catalog/product/c/o/colombia.png?optimize=high&fit=bounds&height=500&width=500&canvas=500:500"
+    },
+    {
+      "id": "bea1",
+      "title": "Buenos Aires Lungo",
+      "description": "Cereal, Caramel",
+      "category": "Coffee Capsules",
+      "price": 30,
+      "img": "https://za.buynespresso.com/media/catalog/product/b/u/buenos-aires-lungo.png?optimize=high&fit=bounds&height=500&width=500&canvas=500:500"
+    },
+    {
+      "id": "2a65",
+      "title": "Robusta Coffee",
+      "description": "The word Robust means strong and rich.",
+      "category": "Instant Coffee",
+      "price": 4000,
+      "img": "https://i0.wp.com/1.bp.blogspot.com/-fDZZHFR0J9I/YSXfboDqHGI/AAAAAAAIR9o/c3KGI_ucJaMFXeNfuHnrj9Qnaek7YGZSACLcBGAsYHQ/s1600/Robusta%2B%25282%2529.jpeg?w=640&ssl=1"
+    },
+    {
+      "id": "e68b",
+      "title": "Farandim Coffee",
+      "description": "Aroma coffee",
+      "category": "Turkish Coffee",
+      "price": 890,
+      "img": "https://i0.wp.com/2.bp.blogspot.com/-3YAtp1ClEsM/WzCAedxQI0I/AAAAAAAFMPI/DSrz2aAhXy4msmxr_gCoyLwgaCxZVhBJgCLcBGAs/s1600/Algorithm-Coffee-Co-03.jpg?w=640&ssl=1"
+    },
+    {
+      "id": "38a9",
+      "title": "Roasted Sip",
+      "description": "“Making every sip count”",
+      "category": "Coffee Beans",
+      "price": 1100,
+      "img": "https://i0.wp.com/3.bp.blogspot.com/-k1mut6RH1gU/XHeBhwO-wTI/AAAAAAAFtw8/SbTtLQqspDweYfjXhyrESPWSiHc6O_PxgCLcBGAs/s1600/RS_1.jpg?w=640&ssl=1"
+    },
+    {
+      "id": "fc49",
+      "title": "Pixie",
+      "description": "Concentrated functionality in a compact design",
+      "category": "Equipments",
+      "price": 5400,
+      "img": "https://za.buynespresso.com/media/catalog/product/p/i/pixie_c_titan_quart_espresso.png?optimize=high&fit=bounds&height=500&width=500&canvas=500:500"
+    },
+    {
+      "id": "eced",
+      "title": "Gran Lattissima White",
+      "description": "or coffee shop recipes, in the blink of a cup.",
+      "category": "Equipments",
+      "price": 4590,
+      "img": "https://za.buynespresso.com/media/catalog/product/g/r/gran-lattissima-white_1.png?optimize=high&fit=bounds&height=500&width=500&canvas=500:500"
+    },
+    {
+      "id": "afca",
+      "title": "Essenza Mini Black",
+      "description": "Get your favourite coffee in an instant thanks to Essenza Mini’s ease of use and fast heat-up time.",
+      "category": "Equipments",
+      "price": 6000,
+      "img": "https://za.buynespresso.com/media/catalog/product/e/s/essenza-mini-black_1.png?optimize=high&fit=bounds&height=500&width=500&canvas=500:500"
+    },
+    {
+      "id": "62d0",
+      "title": "Herb Aling Tea",
+      "description": "Energy morning tea provides.",
+      "category": "Tea",
+      "price": 480,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2023/09/19-tree-face-pack.jpg?w=2500&ssl=1"
+    },
+    {
+      "id": "491a",
+      "title": "Tea",
+      "description": "Flavor Tea",
+      "category": "Tea",
+      "price": 304,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2023/05/5-4-compress.png?fit=1440%2C1080&ssl=1"
+    },
+    {
+      "id": "8649",
+      "title": "DESPIERTA",
+      "description": "The magic of mysticism",
+      "category": "Tea",
+      "price": 320,
+      "img": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2022/06/Despierta-Lilac-Scene-1.jpg?fit=1739%2C1080&ssl=1"
+    },
+    {
+      "id": "431b",
+      "title": "EVE MATCHA GREEN TEA",
+      "description": "Classic black Matcha instant green tea",
+      "category": "Matcha",
+      "price": 790,
+      "img": "https://i0.wp.com/4.bp.blogspot.com/-WH8pLJnyoTg/Xty-VuNkLeI/AAAAAAAG4nk/bROg-tS5jD0G7VeaFdYTv1AdeHLZbWKMQCLcBGAsYHQ/s1600/7AFF75EE-A494-4D0B-94D8-933114C39F9E.jpeg?w=640&ssl=1"
+    },
+    {
+      "id": "33db",
+      "title": "Organic matcha",
+      "description": "Organic matcha green tea",
+      "category": "Matcha",
+      "price": 690,
+      "img": "https://i0.wp.com/4.bp.blogspot.com/-5CRiA5Cttxg/XillXQLqlkI/AAAAAAAGf_k/H9QF95imf7od2WHorVzlrZyuFOzoH-Q9QCLcBGAsYHQ/s1600/matcha%2B%25282%2529.jpg?ssl=1"
+    },
+    {
+      "id": "9110",
+      "title": "Pink Matcha ",
+      "description": "Rose matcha tea",
+      "category": "Matcha",
+      "price": 590,
+      "img": "https://tealish.com/cdn/shop/products/peppermint-matcha-powder-272893_700x700.png?v=1688673249"
+    }
+  ],
+  "category": [
+    {
+      "id": "9c5a",
+      "name": "Instant Coffee"
+    },
+    {
+      "id": "a0c4",
+      "name": "Turkish Coffee"
+    },
+    {
+      "id": "ac1c",
+      "name": "Coffee Capsules"
+    },
+    {
+      "id": "972c",
+      "name": "Coffee Beans"
+    },
+    {
+      "id": "33dc",
+      "name": "Equipments"
+    },
+    {
+      "id": "6920",
+      "name": "Matcha"
+    },
+    {
+      "id": "4bd4",
+      "name": "Tea"
+    },
+    {
+      "name": "NewCategory",
+      "id": "jbBUo4X"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "tittle": "Coffee beans Lavazza 'Gold Selection', medium roast, 1000 gr",
+    "price": "Price: $200.",
+    "buy":"Buy",
+    "brand": "Brand:",
+    "lavaza":"Lavazza",
+    "weight":"Weight:",
+    "packaging":"Type of packaging::",
+    "vacum":"Vacuum packaging",
+    "grain":"Grain variety::",
+    "arabica":"70% Arabica, 30% Robusta",
+    "degree":"Degree of roasting::",
+    "medium": "Medium",
+    "country":"Country of manufacture:",
+    "italy":"Italy",
+    "description":"Description:",
+    "test":"Testimonials:",
+    "sub":"Submit Review",
+    "delete":"Delete comment",
+    "superb": "A superb blend of selected Brazilian Arabica with a sweet flavor and delicate hints of honey and almonds. Harvested from the finest Robusta beans from Asian and Central American plantations."
+}
